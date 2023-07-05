@@ -1,1 +1,1 @@
-My first readme
+first day was cool
